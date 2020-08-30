@@ -1,4 +1,4 @@
-# Awesome Workflows
+# Awesome Miro
 
 Curated list of awesome Miro references, tools and more.
 
